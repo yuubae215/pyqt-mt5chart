@@ -1,0 +1,1 @@
+# pyqt-mt5chart
